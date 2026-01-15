@@ -4,6 +4,7 @@
     "id": 0,
     "canbus": null
   },
+  "controlCycleMS": 20,
   "invertedIMU": false,
   "modules": [
     "frontleft.json",
