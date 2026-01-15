@@ -7,12 +7,12 @@
   "drive": {
     "type": "sparkmax_neo",
     "id": 1,
-    "canbus": null
+    "canbus": "rio"
   },
   "angle": {
     "type": "sparkmax_brushed",
     "id": 2,
-    "canbus": null
+    "canbus": "rio"
   },
   "encoder": {
     "type": "sparkmax_analog5v",
